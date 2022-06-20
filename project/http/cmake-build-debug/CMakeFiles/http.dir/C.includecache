@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/CS/users/cdeckard/.linux/cdeckard/course/cos331/project/http/http-server.c
+stdio.h
+-
+stdlib.h
+-
+sys/socket.h
+-
+netdb.h
+-
+string.h
+-
+errno.h
+-
+unistd.h
+-
+sys/stat.h
+-
+time.h
+-
+

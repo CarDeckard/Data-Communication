@@ -1,0 +1,4 @@
+/opt/CLion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/CS/users/cdeckard/.linux/cdeckard/course/cos331/project/http
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/CS/users/cdeckard/.linux/cdeckard/course/cos331/project/http/cmake-build-debug
