@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/cdeckard/course/cos331/lab/raw/main.c
+stdio.h
+-
+netinet/ip.h
+-
+netinet/udp.h
+-
+
